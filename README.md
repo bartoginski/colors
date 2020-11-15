@@ -1,2 +1,6 @@
-# colors
-its generating random hex rgb color
+# About
+Generates random hex rgb color, and displays it.
+
+# Techologies 
+- pure JavaScript
+- HTML/CSS
